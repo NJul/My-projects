@@ -1,0 +1,1 @@
+!function(){var o=function(o){const e=document.querySelector("h1");return e.innerHTML=o,e.id="title",e};let e="palmTree(n)";console.log(e),o(e);const n=(o=1)=>"number"==typeof o&&o>0&&"p".repeat(o);console.log(n(5)),console.log(n()),console.log(n("str")),console.log("index.js Is it work?")}();

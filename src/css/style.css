@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+}
+
+.rounded {
+  border-radius: var(--borderRadius);
+}
+
+.padding {
+  padding: 20px;
+}
